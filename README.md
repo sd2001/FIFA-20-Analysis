@@ -7,3 +7,4 @@ Like Goalkeepers have different traits as compared to a midfielder.
 Similarly a striker needs to have better finishing skills while a defender needs to have Good Defensive skills.
 As per the several traits given,we have analysed each position and found what qualities does a player need to possess to be the best fit for my team.Those specific traits are assigned with different weights.
 And the results we get are there in the png file.
+Hope you liked it.
